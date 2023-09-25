@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Destya
 
-I'm interested in Data Science and Data Engineering. Currently I'm learning Machine Learning with SQL and Python. Have a great willingness to learn and am highly dedicated and teamwork-oriented. I'm passionate in data preprocessing and modeling.
+I'm interested in Data Science. Currently I'm learning Machine Learning with SQL and Python. Have a great willingness to learn and am highly dedicated and teamwork-oriented. I'm passionate in data preprocessing and modeling.
 
 Let's connect on LinkedIn [Destya Febiolla](https://www.linkedin.com/in/destya-febiolla/)
 
